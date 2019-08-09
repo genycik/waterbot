@@ -1,1 +1,1 @@
-worker: python3 water_bot.py
+web: python3 water_bot.py
