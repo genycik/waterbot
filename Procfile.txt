@@ -1,1 +1,1 @@
-web: python3 water_bot.py
+bot: python3 water_bot.py
