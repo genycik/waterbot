@@ -1,2 +1,0 @@
-# waterbot
-bot for telegram
